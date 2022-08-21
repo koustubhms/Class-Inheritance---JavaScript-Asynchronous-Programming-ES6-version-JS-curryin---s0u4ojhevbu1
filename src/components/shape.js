@@ -8,5 +8,5 @@ class shape{
   calculateArea(){
   }
 }
-module.exports circle.js
+module.exports = shape;
 // export class using module.exports
